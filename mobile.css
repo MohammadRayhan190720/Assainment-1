@@ -1,0 +1,100 @@
+@media screen and (max-width: 992px){
+  header{
+    padding: 20px;
+    padding-top: 50px;
+    height: 100%;
+
+  }
+  nav{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .navbar-container ul{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+  }
+
+  .my-datails h2{
+    text-align: center;
+    font-size: 20px;
+    padding-left: 20px;
+  }
+  .my-datails p{
+    text-align: center;
+    font-size: 15px;
+    padding-left: 20px;
+  }
+  .banner-container{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .work-datails{
+    flex-direction: column;
+  }
+  .portfollio-hare{
+    margin-left: 50px;
+  }
+  .social-link{
+    text-align: center;
+  }
+  .my-picture-style{
+    margin-top: 20px;
+  }
+  .work-container{
+    display: none;
+  }
+ .aboutme-container{
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+ }
+.about-me h2{
+  text-align: center;
+}
+.about-me p{
+  text-align: center;
+}
+.exprience{
+  text-align: center;
+  padding-top: 30px;
+}
+.exprience h2{
+  text-align: center;
+}
+
+/* expeience section start hare */
+.expeience-section{
+  flex-direction: column;
+}
+
+/* award section start hare */
+.award-country{
+  padding: 5px;
+}
+
+/* project section start hare */
+   .project-1-section{
+    flex-direction: column;
+   }
+    .project-2-section{
+      flex-direction: column;
+      gap: 20px;
+    }
+    /* footer section start hare */
+    .nav-items ul{
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+      
+    }
+
+   
+    
+
+  
