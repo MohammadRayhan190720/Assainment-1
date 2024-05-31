@@ -263,6 +263,18 @@ font-size: 20px;
   border-radius: 20px;
   
 }
+.award-abroad{
+  background-color: black;
+  height: 200px;
+  padding: 20px;
+  margin-top: 20px;
+  border-radius: 20px;
+
+}
+.award-abroad h2{
+  text-align: center;
+  padding: 10px;
+}
 .award-country h2{
   text-align: center;
   padding: 10px;
